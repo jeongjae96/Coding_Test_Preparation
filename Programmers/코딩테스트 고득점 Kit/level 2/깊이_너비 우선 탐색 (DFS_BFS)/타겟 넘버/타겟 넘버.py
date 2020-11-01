@@ -1,3 +1,5 @@
+# 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/43165?language=python3
+
 # product(*list) : 배열 안의 배열들로 만들 수 있는 조합을 모두 만든다.
 # Asterisk(*)을 넣어야 한다. *는 Unpacking을 위함이다.
 

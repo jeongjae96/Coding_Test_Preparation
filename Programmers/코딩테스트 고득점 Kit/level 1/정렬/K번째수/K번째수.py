@@ -1,3 +1,5 @@
+#문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3
+
 def solution(array, commands):
     answer = []
     

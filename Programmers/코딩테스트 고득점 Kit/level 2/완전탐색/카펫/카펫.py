@@ -1,4 +1,6 @@
-# https://blog.naver.com/ujafratte111/221673689166
+# 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42842?language=python3
+
+# 참고: https://blog.naver.com/ujafratte111/221673689166
 # 가로 * 세로 = 전체 타일의 수 (노랑 + 갈색 타일)
 # (가로 - 2) * (세로 - 2) = 노랑 타일의 수
 

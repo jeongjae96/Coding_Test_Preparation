@@ -1,4 +1,5 @@
-# https://itholic.github.io/kata-supo/
+# 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42840?language=python3
+# 참고: https://itholic.github.io/kata-supo/
 
 from itertools import cycle
 
