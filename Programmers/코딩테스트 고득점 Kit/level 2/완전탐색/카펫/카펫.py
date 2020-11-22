@@ -15,5 +15,6 @@ def solution(brown, yellow):
         width =  total_tiles // height
         
         if (height - 2) * (width - 2) == yellow:
-            return sorted([height, width], reverse = True) 
             # 제한사항 3: 가로 >= 세로
+            return sorted([height, width], reverse = True) 
+            
