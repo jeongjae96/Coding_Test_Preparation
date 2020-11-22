@@ -16,5 +16,5 @@ def solution(brown, yellow):
         
         if (height - 2) * (width - 2) == yellow:
             # 제한사항 3: 가로 >= 세로
-            return sorted([height, width], reverse = True) 
+            return sorted([height, width], reverse = True)
             
