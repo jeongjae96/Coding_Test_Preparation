@@ -1,3 +1,4 @@
+            map[y][x] = (map[y-1][x] + map[y][x-1])
 # 문제 출처: https://programmers.co.kr/learn/courses/30/lessons/42898
 
 def solution(m, n, puddles):
