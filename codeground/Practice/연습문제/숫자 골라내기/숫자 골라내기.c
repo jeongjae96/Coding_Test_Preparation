@@ -30,6 +30,7 @@ int main(void)
 			Answer ^= nums[i];
 		}
 
+		free(nums);
 
 		printf("Case #%d\n", test_case + 1);
 		printf("%d\n", Answer);
